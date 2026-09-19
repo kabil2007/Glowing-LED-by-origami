@@ -22,7 +22,7 @@ A. Heartful paper based greeting card constructed using basic components.
 *  Inside the paper connect the battery and LED.  
 *  Check the final result.
 
-![][image1]![][image2]
+![greeting card.jpeg][image1]![LED WIRE CONNECT.jpeg][image2]
 
 #### **4.Notes**
 
